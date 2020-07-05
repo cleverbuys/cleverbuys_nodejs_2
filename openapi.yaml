@@ -210,7 +210,7 @@ paths:
       x-skaffolder-returnDesc: 
       x-skaffolder-returnType: 
       x-skaffolder-url: /{id}
-      x-skaffolder-roles: []
+      x-skaffolder-roles:
       summary: CRUD ACTION get
       tags:
         - User

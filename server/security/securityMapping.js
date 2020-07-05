@@ -27,7 +27,7 @@ exports.authMapping = {
 	'POST - /api/user/([^/])+/changePassword$' : ["ADMIN"],
 	'POST - /api/user/*$' : [],
 	'DELETE - /api/user/([^/])+$' : [],
-	'GET - /api/user/([^/])+$' : [],
+	'GET - /api/user/([^/])+$' : null,
 	'GET - /api/user/*$' : [],
 	'POST - /api/user/([^/])+$' : [],
 	'POST - /api/brands/*$' : [],
