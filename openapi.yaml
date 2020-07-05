@@ -1151,8 +1151,7 @@ components:
         - 5f01ef816b4b5c069354ef7c
         - 5f01ef8e6b4b5c069354ef88
         - 5f01f0eb6b4b5c069354ef95
-      x-skaffolder-roles:
-        - 5f01a5616b4b5c069354ede7
+      x-skaffolder-roles: []
     - x-skaffolder-id: 5f01ef816b4b5c069354ef7c
       x-skaffolder-name: brandsEdit
       x-skaffolder-url: /brandses/{id}
